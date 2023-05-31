@@ -7,3 +7,5 @@ const calc = () => {
     }
     return result
 }
+
+console.log(calc());
